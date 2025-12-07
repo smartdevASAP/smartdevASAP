@@ -14,17 +14,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an **eager-to-build engineer** who loves getting hands-on with the keyboard to create awesome stuff. My journey spans full-stack web development, UI/UX design, cloud solutions, and prompt engineering. 
 
-When I'm not coding, you'll find me on the football pitch—I'm a **semi-pro footballer** in the **Kenya Premier League**! ⚽
+When I'm not coding, you'll find me on the football pitch—I'm a **semi-pro footballer** in the **Kenya Premier League footballer**! ⚽
 
-> 🦐❌ Fun fact: I don't eat seafood!
+>  Fun fact: I don't eat seafood!
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
@@ -52,7 +52,7 @@ When I'm not coding, you'll find me on the football pitch—I'm a **semi-pro foo
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -61,7 +61,7 @@ When I'm not coding, you'll find me on the football pitch—I'm a **semi-pro foo
         <img src="https://via.placeholder.com/300x180/667eea/ffffff?text=Paperless+Client" width="100%" alt="Paperless Client"/>
       </a>
       <br/><br/>
-      <b>📄 Paperless Client</b>
+      <b> Paperless Client</b>
       <br/><br/>
       <sub>A digital document management solution built for efficiency and security. Streamlines paperwork with modern tech.</sub>
       <br/><br/>
@@ -74,7 +74,7 @@ When I'm not coding, you'll find me on the football pitch—I'm a **semi-pro foo
         <img src="https://via.placeholder.com/300x180/f093fb/ffffff?text=Bookly+Client" width="100%" alt="Bookly Client"/>
       </a>
       <br/><br/>
-      <b>📚 Bookly Client</b>
+      <b> Bookly Client</b>
       <br/><br/>
       <sub>A full-stack application for book management and discovery. Frontend built with React for seamless UX.</sub>
       <br/><br/>
@@ -87,7 +87,7 @@ When I'm not coding, you'll find me on the football pitch—I'm a **semi-pro foo
         <img src="https://via.placeholder.com/300x180/4facfe/ffffff?text=Bookly+Server" width="100%" alt="Bookly Server"/>
       </a>
       <br/><br/>
-      <b>⚙️ Bookly Server</b>
+      <b> Bookly Server</b>
       <br/><br/>
       <sub>Backend API for Bookly, managing book data, authentication, and business logic with Node.js & MongoDB.</sub>
       <br/><br/>
@@ -100,7 +100,7 @@ When I'm not coding, you'll find me on the football pitch—I'm a **semi-pro foo
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   
@@ -114,7 +114,7 @@ When I'm not coding, you'll find me on the football pitch—I'm a **semi-pro foo
 
 <div align="center">
   
-### 🏆 GitHub Trophies
+###  GitHub Trophies
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=smartdevASAP&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
 
@@ -122,35 +122,35 @@ When I'm not coding, you'll find me on the football pitch—I'm a **semi-pro foo
 
 ---
 
-## 💼 What I'm Working On
+##  What I'm Working On
 
 ```javascript
 const kelvin = {
   currentFocus: ["Building scalable MERN applications", "Cloud architecture"],
   learning: ["Advanced TypeScript patterns", "Microservices", "Kubernetes"],
   collaborating: "Open to exciting projects and opportunities",
-  hobbies: ["Football ⚽", "UI/UX Design 🎨", "Problem Solving 🧩"],
+  hobbies: ["Football ", "UI/UX Design ", "Problem Solving "],
   askMeAbout: ["Web Development", "Cloud Solutions", "Prompt Engineering", "Kenyan Football"],
-  funFact: "I balance code commits and football goals! 🥅💻"
+  funFact: "I balance code commits and football goals! "
 };
 ```
 
 ---
 
-## 🤝 Let's Collaborate!
+##  Let's Collaborate!
 
 <div align="center">
 
 If you're passionate about **building cool stuff**, enjoy **creative problem-solving**, or just want to talk **football** or **tech**, feel free to reach out!
 
-**Let's create something amazing together! 🚀**
+**Let's create something amazing together! **
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-njuguna-8a48a8336)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-### 💡 "Code is poetry written in logic."
+###  "Code is poetry written in logic."
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
